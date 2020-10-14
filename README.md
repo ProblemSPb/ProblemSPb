@@ -1,6 +1,7 @@
 ## Hi there, I'm Elena 👋👩🏼‍💻
 
 I am a self-taught developer. Yeah, I'm guilty too. 😃
+
 After two years of practicing and learning how to code in my spare time, I finally changed my job and now I'm bringing technologies to HR world.
 By my example, I want to support everyone out there who are already teaching themselves how to code or are considering it. 
 
