@@ -3,7 +3,6 @@
 I am a self-taught developer. Yeah, I'm guilty too. 😃
 
 After two years of practicing and learning how to code in my free time, I've changed my job and now I'm bringing technologies and data analytics to HR world.
-By my example, I want to support everyone out there who are already teaching themselves how to code or are considering it. 
 
 
 <!--
